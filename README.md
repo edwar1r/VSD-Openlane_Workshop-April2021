@@ -7,7 +7,7 @@ This type of RTL to tap out EDA process is normally done through commercial tool
 I have included the structure of the course below with my labs screen shots; I have listed the theory to show the structure of the course and how the labs sessions/sections align but will not go into the detail (please enrol on the associated Udemy courses offered by VSD/Kunal or/and take the 5 day course to learn more about in the VLSI area).
 Currently I'm a product manager for a telecomms software company developing BSS/charging software (considered more as enterprise side); I used to work in embedded sw (2G/2.5G Handset development and PBX) many years ago...
 
-linkedin.com/in/robertedwardstelecommssw
+http://linkedin.com/in/robertedwardstelecommssw
 
 # Day 1 – OpenLANE and Sky130PDK
 ## Theory 
