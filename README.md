@@ -1,5 +1,5 @@
 # VSD-Openlane_Workshop-April2021
-Capture lab steps during VSD 5 day VLSI open source/hardware EDA course from RTL to Tape-Out
+Capture lab steps during VSD 5 day VLSI open source/hardware EDA course from RTL to Tape Out
 
 # Summary
 I participated in the OpenLANE and Sky130PDK course run by VSD company. This was a five day course with the aim of guiding students along the path of going from an RTL (typically produced from an HDL compilation) all the way to tape-out ready for a foundry shuttle run. All the necessary steps were covered using Open Source EDA tools called OpenLane. I couldn’t complete day5 (You really need to complete days 1 to 3 by Friday and dedicate whole of Saturday/Sunday to Day4/5 especially if you are new/rusty in this area); the course was really insightful with great tutors. 
